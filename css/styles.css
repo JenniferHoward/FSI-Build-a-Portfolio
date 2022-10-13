@@ -1,0 +1,27 @@
+h1 {
+  color:darkblue; 
+  text-align: center;
+  font-size: 35px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color:blanchedalmond; 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-color: cornflowerblue;
+}
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h3 {
+    color: blanchedalmond;
+    border: groove;
+    border-radius: 4px;
+    text-align: center;
+}
+div {
+    text-align: center ;
+}
